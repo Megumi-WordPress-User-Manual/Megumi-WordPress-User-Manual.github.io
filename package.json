@@ -1,0 +1,27 @@
+{
+  "name": "megumi-wordpress-user-manual",
+  "version": "0.1.0",
+  "description": "Megumi WordPress User Manual",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megumi-WordPress-User-Manual/Megumi-WordPress-User-Manual.github.io.git"
+  },
+  "author": "DigitalCube Co.Ltd",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Megumi-WordPress-User-Manual/Megumi-WordPress-User-Manual.github.io/issues"
+  },
+  "homepage": "http://megumi-wordpress-user-manual.github.io/",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}

@@ -1,0 +1,12 @@
+# Site settings
+title: Megumi WordPress User Manual
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is why we've created this page to share our knowledge about WordPress. Beginner WordPress users and professionals can both benefit from this page, and everyone is invited to add their tips and tricks for the world to see.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://megumi-wordpress-user-manual.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
