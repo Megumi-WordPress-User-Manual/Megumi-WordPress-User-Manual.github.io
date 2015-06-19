@@ -15,17 +15,17 @@ permalink: /first-steps/
 
 ### Initial Settings
 
-* Blog Name and Description
-* Email address setup
-* Password Login Change
-* Search Engine Settings
-* Blog Pages Display
+* [Blog Name and Description]({{ site.baseurl }}/initial-settings/blog-name-and-description.html)
+* [Email address setup]({{ site.baseurl }}/initial-settings/email-address-setup.html)
+* [Password Login Change]({{ site.baseurl }}/initial-settings/password-login-change.html)
+* [Search Engine Settings]({{ site.baseurl }}/initial-settings/search-engine-settings.html)
+* [Blog Pages Display]({{ site.baseurl }}/initial-settings/blog-pages-display.html)
 
 ### Comments
 
-* Comments Settings
-* Email Notification
-* Before a Comment Appears
+* [Comments Settings]({{ site.baseurl }}/comments/comments-settings.html)
+* [Email Notification]({{ site.baseurl }}/comments/email-notification.html)
+* [Before a Comment Appears]({{ site.baseurl }}/comments/before-a-comment-appears.html)
 * Manage Comments
 * Comment Author Settings
 * Avatar

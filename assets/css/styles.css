@@ -89,7 +89,6 @@ img {
 }
 
 strong {
-  color: #222;
   font-weight: 700;
 }
 
@@ -106,7 +105,7 @@ hr {
 }
 
 .wrapper {
-  width: 860px;
+  width: 1000px;
   margin: 0 auto;
 }
 
@@ -132,7 +131,7 @@ header.site-header ul li a {
 }
 
 section.site-content {
-  width: 500px;
+  width: 650px;
   float: right;
   padding-bottom: 50px;
 }
@@ -140,6 +139,12 @@ section.site-content h3 {
   margin-top: 2em;
   padding-bottom: 1em;
   border-bottom: solid 1px #e5e5e5;
+}
+section.site-content li {
+  margin-bottom: 0.5em;
+}
+section.site-content li ul, section.site-content li ol {
+  margin-top: 0.5em;
 }
 
 footer.site-footer {
