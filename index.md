@@ -13,7 +13,7 @@ Thanks and enjoy!
 
 ### First things first...
 
-* Login to the WordPress Dashboard
+* [Login to the WordPress Dashboard]({{ site.baseurl }}/installation/login-to-the-wordpress-dashboard.html)
 
 ### Basic info for writing a blog
 

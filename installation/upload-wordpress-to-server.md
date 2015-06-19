@@ -11,4 +11,4 @@ Upload your downloaded WordPress files to FTP software like:
 * [WinSCP](http://winscp.net/eng/index.php)
 * [Transmit](http://panic.com/transmit/)
 
-<img src="{{ site.baseurl }}/installation/images/upload-wordpress-to-server.png" alt="Upload WordPress to Server" width="412" height="366" />
+![Upload WordPress to Server]({{ site.baseurl }}/installation/images/upload-wordpress-to-server.png)

@@ -11,6 +11,7 @@ permalink: /first-steps/
 * [Download WordPress]({{ site.baseurl }}/installation/download-wordpress.html)
 * [Upload WordPress to server]({{ site.baseurl }}/installation/upload-wordpress-to-server.html)
 * [WordPress Installation settings]({{ site.baseurl }}/installation/wordpress-installation-settings.html)
+* [Login to the WordPress Dashboard]({{ site.baseurl }}/installation/login-to-the-wordpress-dashboard.html)
 
 ### Initial Settings
 
