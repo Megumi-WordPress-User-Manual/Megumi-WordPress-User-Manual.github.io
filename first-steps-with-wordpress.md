@@ -26,10 +26,11 @@ permalink: /first-steps/
 * [Comments Settings]({{ site.baseurl }}/comments/comments-settings.html)
 * [Email Notification]({{ site.baseurl }}/comments/email-notification.html)
 * [Before a Comment Appears]({{ site.baseurl }}/comments/before-a-comment-appears.html)
-* Manage Comments
-* Comment Author Settings
-* Avatar
-* Editing Comments
+* [Manage Comments]({{ site.baseurl }}/comments/manage-comments.html)
+* [Comment Author Settings]({{ site.baseurl }}/comments/comment-author-settings.html)
+* [Avatar]({{ site.baseurl }}/comments/avatar.html)
+  * [How to Register in Gravatar]({{ site.baseurl }}/comments/register-gravatar.html)
+* [Editing Comments]({{ site.baseurl }}/comments/editing-comments.html)
 
 - - - -
 

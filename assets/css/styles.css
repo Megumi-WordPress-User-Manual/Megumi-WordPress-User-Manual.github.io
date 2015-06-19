@@ -145,6 +145,7 @@ section.site-content li {
 }
 section.site-content li ul, section.site-content li ol {
   margin-top: 0.5em;
+  margin-bottom: 0;
 }
 
 footer.site-footer {
