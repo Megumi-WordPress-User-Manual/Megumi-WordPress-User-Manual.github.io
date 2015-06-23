@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome to Megumi WordPress User Manual!
+class: home
 ---
 
 ## Konnichiwa!
@@ -17,9 +18,9 @@ Thanks and enjoy!
 
 ### Basic info for writing a blog
 
-* Create an article
-* Revise an article
-* Add a category
+* [Create an Article]({{ site.baseurl }}/posting/create-an-article.html)
+* [Revise an article]({{ site.baseurl }}/posting/revise-an-article.html)
+* [Add a Category]({{ site.baseurl }}/posting/add-a-category.html)
 * Create a page
 
 ### Customizing the look of your blog

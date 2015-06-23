@@ -38,11 +38,11 @@ permalink: /first-steps/
 
 ### Posting
 
-* Create an Article
-* Article Format with Visual Editor
-* Article Format with HTML Editor
-* Add a Category
-* Add a Tag
+* [Create an Article]({{ site.baseurl }}/posting/create-an-article.html)
+* [Article Format with Visual Editor]({{ site.baseurl }}/posting/article-format-with-visual-editor.html)
+* [Article Format with HTML Editor]({{ site.baseurl }}/posting/article-format-with-html-editor.html)
+* [Add a Category]({{ site.baseurl }}/posting/add-a-category.html)
+* [Add a Tag]({{ site.baseurl }}/posting/add-a-tag.html)
 * Password-protected Articles
 * Save as Draft
 * Add a Photo
