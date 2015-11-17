@@ -54,9 +54,9 @@ permalink: /first-steps/
 ### Pages
 
 * [Create a Page]({{ site.baseurl }}/pages/create-a-page.html)
-* Page Settings
-* Page Order
-* Delete a Page
+* [Page Settings]({{ site.baseurl }}/pages/page-settings.html)
+* [Page Order]({{ site.baseurl }}/pages/page-order.html)
+* [Delete a Page]({{ site.baseurl }}/pages/delete-page.html)
 
 ### Category Tags
 
