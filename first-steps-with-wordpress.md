@@ -43,17 +43,17 @@ permalink: /first-steps/
 * [Article Format with HTML Editor]({{ site.baseurl }}/posting/article-format-with-html-editor.html)
 * [Add a Category]({{ site.baseurl }}/posting/add-a-category.html)
 * [Add a Tag]({{ site.baseurl }}/posting/add-a-tag.html)
-* Password-protected Articles
-* Save as Draft
-* Add a Photo
-* Future Post
-* Edit / Delete Articles
-* Edit Images from the Management Screen
-* Trash
+* [Password-protected Articles]({{ site.baseurl }}/posting/password-protected-articles.html)
+* [Save as Draft]({{ site.baseurl }}/posting/save-as-draft.html)
+* [Add a Photo]({{ site.baseurl }}/posting/add-a-photo.html)
+* [Future Post]({{ site.baseurl }}/posting/future-post.html)
+* [Edit / Delete Articles]({{ site.baseurl }}/posting/edit-delete-articles.html)
+* [Edit Images from the Management Screen]({{ site.baseurl }}/posting/edit-images-from-management-screen.html)
+* [Trash]({{ site.baseurl }}/posting/trash.html)
 
 ### Pages
 
-* Create a Page
+* [Create a Page]({{ site.baseurl }}/pages/create-a-page.html)
 * Page Settings
 * Page Order
 * Delete a Page
